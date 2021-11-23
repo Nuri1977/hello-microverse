@@ -10,5 +10,9 @@ Additional description about the project and its features.
 - Stylelint, Github Actions
 
 ## 👤 Author
-- Github: (https://github.com/Nuri1977)
+- Github: https://github.com/Nuri1977
+
+## Show your support
+Give a ⭐️ if you like this project!
+
 
